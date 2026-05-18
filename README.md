@@ -1,3 +1,2 @@
-# NeetCode Solutions — @LarryBananaShi
-my leetcode solutions (python)
-
+# LeetCode Solutions — @LarryBananaShi
+leeettccoode!!!
